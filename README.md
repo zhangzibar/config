@@ -1,2 +1,2 @@
 # config
-dotfile management
+dotfile management originally sourced from mit course

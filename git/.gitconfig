@@ -1,0 +1,7 @@
+[user]
+	email = zhangzibar@gmail.com
+	name = zzb
+[alias]
+	graph = log --all --graph --decorate --oneline
+[core]
+	editor = 'vim'
